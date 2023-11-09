@@ -1,0 +1,217 @@
+@font-face {
+  font-family: 'reco';
+  src: url('../../src/Recipekorea 레코체 FONT/Recipekorea 레코체 FONT1.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'netmarbleB';
+  src: url('../../src/netmarble_font/netmarbleB.ttf') format('truetype');
+
+}
+
+.image-container {
+
+  position: relative;
+  left: -30%;
+  top: 80%;
+}
+
+.image-container2 {
+  position: relative;
+  left: -200px;
+  top: 80px;
+}
+
+.image-container3 {
+  position: relative;
+  left: -200px;
+  top: 100px;
+}
+
+.image-container4 {
+  position: relative;
+  left: -5px;
+  top: -350px;
+}
+
+.image-container5 {
+  position: absolute;
+  left: -210px;
+  top: -80px;
+}
+
+.image-container6 {
+  position: absolute;
+  left: -600px;
+  top: -80px;
+}
+
+.image-container7 {
+  position: absolute;
+  left: -800px;
+  top: 280px;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 140px;
+  height: 140px;
+  background-color: rgb(242, 222, 44);
+}
+
+.mebar1 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  left: -100px;
+  top: 30px;
+  position: absolute;
+  font-family: 'reco';
+  background: rgba(0, 0, 0, 0.079);
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid black;
+  cursor:pointer;
+  transition: background-color 0.3s ease;
+}
+
+.mebar2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  left: 180px;
+  top: 30px;
+  position: absolute;
+  font-family: 'reco';
+  background: rgba(0, 0, 0, 0.079);
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid black;
+  transition: background-color 0.3s ease;
+
+}
+.mebar1:hover {
+  background: gray;
+}
+.mebar2:hover {
+  background: gray;
+}
+
+.mebar4 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  left: -100px;
+  top: -160px;
+  position: absolute;
+  font-family: 'reco';
+  background: rgba(0, 0, 0, 0.079);
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  border: 3.5px solid black;
+  transition: background-color 0.3s ease;
+}
+
+.mebar3 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  left: -600px;
+  top: -160px;
+  position: absolute;
+  font-family: 'reco';
+  background: rgba(0, 0, 0, 0.079);
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  border: 3.5px solid black;
+  transition: background-color 0.3s ease;
+}
+.mebar3:hover {
+  background: gray;
+}
+.mebar4:hover {
+  background: gray;
+}
+
+
+.item {
+  font-family: 'reco';
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 150px;
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.text-overlay {
+  position: absolute;
+  top: -10px;
+  /* 텍스트의 상단 여백 설정 */
+  left: 120px;
+  /* 텍스트의 왼쪽 여백 설정 */
+  color: black;
+  /* 텍스트 색상 설정 */
+  background: white;
+  /* 텍스트 배경색 설정 */
+  padding: 10px;
+  /* 텍스트 주변 여백 설정 */
+  font-size: 25px;
+  /* 텍스트 크기 설정 */
+  margin-top: 60px;
+}
+.P1text {
+  position: absolute;
+  font-family: 'reco';
+  top: 270px;
+  /* 텍스트의 상단 여백 설정 */
+  left: -530px;
+  /* 텍스트의 왼쪽 여백 설정 */
+  color: black;
+  /* 텍스트 색상 설정 */
+  background: whitesmoke;
+  /* 텍스트 배경색 설정 */
+  padding: 10px;
+  /* 텍스트 주변 여백 설정 */
+  font-size: 20px;
+  /* 텍스트 크기 설정 */
+  margin-top: 60px;
+  width:600px;
+}
+
+.reco {
+  font-family: 'reco';
+  font-size:1.850rem;
+}
+
+h1.reco,
+h2 {
+  margin: 0;
+}
+
+.image-container ul {
+  margin-bottom: 0px;
+  /* 원하는 크기의 열 간격으로 조절 */
+}
+
+
+.netmarble {
+  font-family: 'netmarbleB';
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, 'reco';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: whitesmoke;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
