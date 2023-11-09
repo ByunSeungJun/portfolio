@@ -10,7 +10,7 @@ import "./App.css";
 const App = () => {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="sidebar1">
           <Link to="/Home" className="item">
             Home
@@ -51,7 +51,6 @@ const App = () => {
         <h1 className='reco'><h2>변승준의 <br></br>
           PORTFOLIO</h2>성장해가는 풀스택개발자</h1>
       </div>
-      
         <img src='/image/me.png' alt="Your Image" style={{ width: '10rem', height: '10rem' }} className="mepic"/>
     </div>
 
