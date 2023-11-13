@@ -10,18 +10,20 @@
 }
 
 .title {
-  left: 2%;
+  left: 38%;
   top: 2%;
   position: absolute;
+  margin:auto;
   text-align: center;
   background-color: whitesmoke;
 }
 
 .contents {
-  right: 33%;
+  right: 17%;
   top: 25%;
   position: absolute;
   text-align: center;
+  margin:auto;
   background-color: whitesmoke;
 }
 
@@ -29,8 +31,8 @@
   padding-top: 0.9375em;
   padding-bottom: 0.9375em;
   text-align: center;
-  left: 0.9375em;
-  bottom: 22em;
+  left: 2%;
+  bottom: 74%;
   position: absolute;
   font-family: 'reco';
   background: green;
@@ -44,8 +46,8 @@
   padding-top: 0.9375em;
   padding-bottom: 0.9375em;
   text-align: center;
-  left: 0.9375em;
-  bottom: 17em;
+  left: 2%;
+  bottom: 59%;
   position: absolute;
   font-family: 'reco';
   background: green;
@@ -59,8 +61,8 @@
   padding-top: 0.9375em;
   padding-bottom: 0.9375em;
   text-align: center;
-  left: 0.9375em;
-  bottom: 12em;
+  left: 2%;
+  bottom: 44%;
   position: absolute;
   font-family: 'reco';
   background: green;
@@ -73,8 +75,8 @@
   padding-top: 0.9375em;
   padding-bottom: 0.9375em;
   text-align: center;
-  left: 0.9375em;
-  bottom: 7em;
+  left: 2%;
+  bottom: 29%;
   position: absolute;
   font-family: 'reco';
   background: green;
@@ -87,8 +89,8 @@
   padding-top: 0.9375em;
   padding-bottom: 0.9375em;
   text-align: center;
-  left: 0.9375em;
-  bottom: 2em;
+  left: 2%;
+  bottom: 14%;
   position: absolute;
   font-family: 'reco';
   background: green;
@@ -101,14 +103,10 @@
 .item {
   font-family: 'reco';
   text-align: center;
-  padding: 1.25em;
-  padding-top: 0.9375em;
-  padding-bottom: 0.9375em;
-  padding-left: 0.9375em;
-  padding-right: 0.9375em;
-  ;
+  padding-top: 1em;
+  padding-bottom: 1em;
   text-decoration: none;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   border-radius: 0.625em;
 }
 
@@ -125,23 +123,29 @@
 
 .sidebar1:hover{
   background: red;
+  left: 4%;
 }
 .sidebar2:hover {
   background: red;
+  left: 4%;
 }
 .sidebar3:hover {
   background: red;
+  left: 4%;
 }
 .sidebar4:hover {
   background: red;
+  left: 4%;
 }
 .sidebar5:hover {
   background: red;
+  left: 4%;
 }
 
 .mepic{
-  left: 0.5%;
-  top: 22%;
+  left: 60%;
+  top: 1%;
+  margin:auto;
   position: absolute;
   border-radius: 50%;
   border:0.2rem solid black;

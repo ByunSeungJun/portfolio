@@ -6,6 +6,7 @@ import Search from "./comp/Search";
 import Posts from "./comp/Posts";
 import Login from "./comp/Login";
 import "./App.css";
+import me from "./image/me.PNG";
 
 const App = () => {
   return (
@@ -51,7 +52,7 @@ const App = () => {
         <h1 className='reco'><h2>변승준의 <br></br>
           PORTFOLIO</h2>성장해가는 풀스택개발자</h1>
       </div>
-        <img src='/image/me.png' alt="Your Image" style={{ width: '10rem', height: '10rem' }} className="mepic"/>
+        <img src={me} alt="me" style={{ width: '9.0rem', height: '9.0rem' }} className="mepic"/>
     </div>
 
   );
