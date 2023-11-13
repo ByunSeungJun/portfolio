@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ac84632.css",
+    "main.js": "/static/js/main.0c6ab4ba.js",
+    "static/js/787.351091a8.chunk.js": "/static/js/787.351091a8.chunk.js",
+    "static/media/Recipekorea 레코체 FONT1.ttf": "/static/media/Recipekorea 레코체 FONT1.7c8b6d145e70b92f4010.ttf",
+    "static/media/netmarbleB.ttf": "/static/media/netmarbleB.5929e2a502c9057cf23f.ttf",
+    "index.html": "/index.html",
+    "main.5ac84632.css.map": "/static/css/main.5ac84632.css.map",
+    "main.0c6ab4ba.js.map": "/static/js/main.0c6ab4ba.js.map",
+    "787.351091a8.chunk.js.map": "/static/js/787.351091a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac84632.css",
+    "static/js/main.0c6ab4ba.js"
+  ]
+}
