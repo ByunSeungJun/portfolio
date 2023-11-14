@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6bb05f7e.css",
-    "main.js": "/portfolio/static/js/main.ccbde0de.js",
+    "main.css": "/portfolio/static/css/main.3485cba1.css",
+    "main.js": "/portfolio/static/js/main.a2848507.js",
     "static/js/787.351091a8.chunk.js": "/portfolio/static/js/787.351091a8.chunk.js",
     "static/media/Recipekorea 레코체 FONT1.ttf": "/portfolio/static/media/Recipekorea 레코체 FONT1.7c8b6d145e70b92f4010.ttf",
     "static/media/netmarbleB.ttf": "/portfolio/static/media/netmarbleB.5929e2a502c9057cf23f.ttf",
@@ -18,12 +18,12 @@
     "static/media/call.PNG": "/portfolio/static/media/call.95c0b10a874fe706ab5d.PNG",
     "static/media/name.PNG": "/portfolio/static/media/name.92b3676dac51f0f51a4d.PNG",
     "index.html": "/portfolio/index.html",
-    "main.6bb05f7e.css.map": "/portfolio/static/css/main.6bb05f7e.css.map",
-    "main.ccbde0de.js.map": "/portfolio/static/js/main.ccbde0de.js.map",
+    "main.3485cba1.css.map": "/portfolio/static/css/main.3485cba1.css.map",
+    "main.a2848507.js.map": "/portfolio/static/js/main.a2848507.js.map",
     "787.351091a8.chunk.js.map": "/portfolio/static/js/787.351091a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bb05f7e.css",
-    "static/js/main.ccbde0de.js"
+    "static/css/main.3485cba1.css",
+    "static/js/main.a2848507.js"
   ]
 }
