@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3485cba1.css",
-    "main.js": "/portfolio/static/js/main.a2848507.js",
+    "main.css": "/portfolio/static/css/main.0f176833.css",
+    "main.js": "/portfolio/static/js/main.af7b43ea.js",
     "static/js/787.351091a8.chunk.js": "/portfolio/static/js/787.351091a8.chunk.js",
+    "static/media/venture.png": "/portfolio/static/media/venture.0f431e6b037939658abc.png",
     "static/media/Recipekorea 레코체 FONT1.ttf": "/portfolio/static/media/Recipekorea 레코체 FONT1.7c8b6d145e70b92f4010.ttf",
     "static/media/netmarbleB.ttf": "/portfolio/static/media/netmarbleB.5929e2a502c9057cf23f.ttf",
     "static/media/me.PNG": "/portfolio/static/media/me.de2f5c77dac46888bfcc.PNG",
     "static/media/pre.png": "/portfolio/static/media/pre.f6c53a4473ab08972b9a.png",
+    "static/media/report.PNG": "/portfolio/static/media/report.fb9caf1aa644a4ef5529.PNG",
     "static/media/image.png": "/portfolio/static/media/image.d18beb67ffee1230a7e2.png",
+    "static/media/studyto.png": "/portfolio/static/media/studyto.48ad48bd8d09daedb404.png",
     "static/media/skills.PNG": "/portfolio/static/media/skills.13b58fa946a63822fb5c.PNG",
+    "static/media/playstore.png": "/portfolio/static/media/playstore.2f9e048179b2292f1ded.png",
+    "static/media/appstore.png": "/portfolio/static/media/appstore.61a5921ec40b93542533.png",
+    "static/media/coding.png": "/portfolio/static/media/coding.c8335328d0ae314410a6.png",
     "static/media/container1.png": "/portfolio/static/media/container1.2b0bad8d3db37d89c592.png",
     "static/media/container3.PNG": "/portfolio/static/media/container3.2f091af5817fc719bf93.PNG",
     "static/media/address.PNG": "/portfolio/static/media/address.01d8e289633218559cab.PNG",
@@ -18,12 +24,12 @@
     "static/media/call.PNG": "/portfolio/static/media/call.95c0b10a874fe706ab5d.PNG",
     "static/media/name.PNG": "/portfolio/static/media/name.92b3676dac51f0f51a4d.PNG",
     "index.html": "/portfolio/index.html",
-    "main.3485cba1.css.map": "/portfolio/static/css/main.3485cba1.css.map",
-    "main.a2848507.js.map": "/portfolio/static/js/main.a2848507.js.map",
+    "main.0f176833.css.map": "/portfolio/static/css/main.0f176833.css.map",
+    "main.af7b43ea.js.map": "/portfolio/static/js/main.af7b43ea.js.map",
     "787.351091a8.chunk.js.map": "/portfolio/static/js/787.351091a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3485cba1.css",
-    "static/js/main.a2848507.js"
+    "static/css/main.0f176833.css",
+    "static/js/main.af7b43ea.js"
   ]
 }
