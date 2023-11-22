@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.30879add.css",
-    "main.js": "/portfolio/static/js/main.d3d12319.js",
+    "main.css": "/portfolio/static/css/main.a16a0099.css",
+    "main.js": "/portfolio/static/js/main.b330106b.js",
     "static/js/787.351091a8.chunk.js": "/portfolio/static/js/787.351091a8.chunk.js",
     "static/media/venture.png": "/portfolio/static/media/venture.0f431e6b037939658abc.png",
     "static/media/Recipekorea 레코체 FONT1.ttf": "/portfolio/static/media/Recipekorea 레코체 FONT1.7c8b6d145e70b92f4010.ttf",
@@ -27,12 +27,12 @@
     "static/media/call.PNG": "/portfolio/static/media/call.95c0b10a874fe706ab5d.PNG",
     "static/media/name.PNG": "/portfolio/static/media/name.92b3676dac51f0f51a4d.PNG",
     "index.html": "/portfolio/index.html",
-    "main.30879add.css.map": "/portfolio/static/css/main.30879add.css.map",
-    "main.d3d12319.js.map": "/portfolio/static/js/main.d3d12319.js.map",
+    "main.a16a0099.css.map": "/portfolio/static/css/main.a16a0099.css.map",
+    "main.b330106b.js.map": "/portfolio/static/js/main.b330106b.js.map",
     "787.351091a8.chunk.js.map": "/portfolio/static/js/787.351091a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30879add.css",
-    "static/js/main.d3d12319.js"
+    "static/css/main.a16a0099.css",
+    "static/js/main.b330106b.js"
   ]
 }
